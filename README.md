@@ -9,7 +9,9 @@
 
 - 🤝 I can help with **AWS, Terraform, CI/CD, Ansible, docker, Linux, monitoring etc.**
 
-- 💬 Ask me about **bash, Terraform, python**
+- 💬 Ask me about **bash, Terraform**
+
+- ⚡ Description of my previous projects - [my_projects.md](https://github.com/skit-devops/skit-devops/blob/main/my_projects.md)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
